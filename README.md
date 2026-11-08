@@ -3,9 +3,9 @@
 **ARTI 502 – Deep Learning | Assignment 2**
 
 ## Overview
-This project implements and evaluates Convolutional Neural Networks (CNNs) for image classification using the CIFAR-10 dataset and PyTorch.
+This assignment implements and evaluates Convolutional Neural Networks (CNNs) for image classification using the CIFAR-10 dataset and PyTorch.
 
-The project explores CNN architectures, data augmentation techniques, and hyperparameter tuning to improve classification performance.
+The assignment explores CNN architectures, data augmentation techniques, and hyperparameter tuning to improve classification performance.
 
 ## Dataset
 The CIFAR-10 dataset contains 60,000 color images across 10 classes:
@@ -14,7 +14,7 @@ The CIFAR-10 dataset contains 60,000 color images across 10 classes:
 - Image size: 32 × 32 pixels
 
 ## Implementation
-The project covers five main tasks:
+The assignment covers five main tasks:
 
 1. **Dataset Preparation:** Download and load CIFAR-10.
 2. **CNN Architecture:** Implement convolutional, max-pooling, and fully connected layers.
@@ -37,6 +37,7 @@ Model performance is evaluated using:
 - Test accuracy
 - Comparison of CNN architectures and hyperparameter configurations
 - Training and evaluation plots
+- The best-performing model, EnhancedCNN, achieved a test accuracy of 77.15% on CIFAR-10
 
 ## Course Information
 **Course:** ARTI 502 – Deep Learning  
